@@ -9,7 +9,7 @@ This project demonstrates an AI-powered, interactive agent system for analyzing 
 - Showcase how AI systems can support interactive data analysis.
 - Enable users to load, visualize, and forecast GDP data for countries of interest.
 - Provide general expert-like assessments regarding GDP trends.
-- Use AI responsibly and efficiently with the OpenAI API provided by InnoWerk (Deutsche Bundesbank).
+- Use AI responsibly and efficiently with the OpenAI API.
 
 ---
 
