@@ -1,6 +1,4 @@
-# gdp-bot
-
-# GDP-Chat: An Intelligent Agent System for GDP Data Analysis
+# GDP-Bot: An Intelligent Agent System for GDP Data Analysis
 
 This project demonstrates an AI-powered, interactive agent system for analyzing Gross Domestic Product (GDP) data in a conversational format. The prototype showcases the potential of modern AI systems in the context of data science by enabling chat-based exploration and forecasting of economic indicators.
 
